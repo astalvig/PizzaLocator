@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PizzaLocator</string>
+    <string name="action_settings">Settings</string>
+    <string name="select">Select a Location:</string>
+
+    <string-array
+        name="locations_array">
+        <item>Store 7387: 4960 Miller Trunk Hwy, Duluth, MN</item>
+        <item>Store 1985: 309 E Central Entrance, Duluth, MN</item>
+        <item>Store 1986: 1701 Woodland Ave, Duluth, MN</item>
+        <item>Store 7368: 309 N Central Ave, Duluth, MN</item>
+        <item>Store 2000: 1204 Belknap St, Superior, WI</item>
+    </string-array>
+
+    <string name="find_pizza">Find Pizza!</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="selected_loc">Selected Location: </string>
+
+</resources>
